@@ -42,5 +42,8 @@ yarn.lock
 
 # Extension
 out
+**/out
 *.vsix
 package-lock.json
+**/tsconfig.tsbuildinfo
+.vscode-test
